@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate developer eager to learn and cont
 
 ## Recent Projects
 
-### [Project One]([https://github.com/AnyaChann/project-one](https://github.com/AnyaChann/6GAG.com.git))
+### [6GAG]([https://github.com/AnyaChann/6GAG.com.git](https://github.com/AnyaChann/6GAG.com.git))
 A clone website inspired by 9GAG.com was created to learn Node.js and React, not for commercial purposes.
 
 ## Get In Touch
