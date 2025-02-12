@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer eager to learn and cont
 - 👯 I’m looking to collaborate on **open-source projects** and **community-driven initiatives**.
 - 💬 Ask me about **JavaScript**, **React**, and **Node.js**.
 - 📫 How to reach me: [Email](mailto: bachcter504@gmai.com)
-- ⚡ Fun fact: I love anime, gaming and photography!
+- ⚡ Fun fact: I love anime, gaming and coding!
 
 ## My Skills
 
