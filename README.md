@@ -1,4 +1,4 @@
-# Hi there, I'm Anya Chann (BachTo)! 👋
+# Hi there, I'm Anya Chann (Bách Tô)! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer eager to learn and contribute to new projects.
 
