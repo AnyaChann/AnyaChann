@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer eager to learn and cont
 - 🌱 I’m currently learning **full-stack development** and **machine learning**.
 - 👯 I’m looking to collaborate on **open-source projects** and **community-driven initiatives**.
 - 💬 Ask me about **JavaScript**, **React**, and **Node.js**.
-- 📫 How to reach me: [Email](mailto: bachcter504@gmai.com)
+- 📫 How to reach me: [Email](mailto: bachcter504@gmail.com)
 - ⚡ Fun fact: I love anime, gaming and coding!
 
 ## My Skills
