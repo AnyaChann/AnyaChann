@@ -13,14 +13,15 @@ Welcome to my GitHub profile! I'm a passionate developer eager to learn and cont
 ## My Skills
 
 ### Languages
-
-- Python
-- JavaScript
+- C/C++
+- C#
 - HTML
 - CSS
+- TypeScript
+- Java
+- JavaScript
 
 ### Frameworks & Libraries
-
 - React
 - Node.js
 - Express
