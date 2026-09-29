@@ -12,17 +12,15 @@ I'm a developer focused on **Minecraft development**, especially the server-side
 - Bash
 
 ### Minecraft Stack
-- NeoForge
+- NeoForge / Forge
 - Paper / Folia
 - Velocity
-- Adventure API
-- ViaVersion
-- LimboAPI / custom limbo systems
 - Minecraft protocol and packet handling
 - Plugin messaging and proxy ↔ backend communication
 - Mod / plugin interoperability
 - Authentication, routing, and session systems
 - Server performance and concurrency
+- ...
 
 ### Full Stack & Backend
 - Spring Boot
