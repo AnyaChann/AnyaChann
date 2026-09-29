@@ -4,7 +4,7 @@ I'm a developer focused on **Minecraft development**, especially the server-side
 
 ## Minecraft Development
 
-### Languages
+### Languages (main)
 - Java
 - TypeScript / JavaScript
 - SQL
