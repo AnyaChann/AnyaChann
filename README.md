@@ -1,55 +1,49 @@
 # Hi, I'm Anya Chann (Bách)
 
-I'm a developer who enjoys building systems, experimenting with infrastructure, and turning ideas into working software.
+I'm a developer focused on **Minecraft development**, especially the server-side and infrastructure ecosystem. I enjoy building mods, plugins, proxies, protocol integrations, and the backend systems around them.
 
-My current focus is around **Minecraft server infrastructure, web development, homelabs, and automation**. I especially enjoy projects where performance, reliability, and system design matter.
-
-## What I work with
+## Minecraft Development
 
 ### Languages
 - Java
 - TypeScript / JavaScript
+- SQL
 - C / C++
-- C#
-- HTML / CSS
+- Bash
 
-### Frameworks & Technologies
-- Velocity, Paper/Folia, NeoForge
+### Minecraft Stack
+- NeoForge
+- Paper / Folia
+- Velocity
+- Adventure API
+- ViaVersion
+- LimboAPI / custom limbo systems
+- Minecraft protocol and packet handling
+- Plugin messaging and proxy ↔ backend communication
+- Mod / plugin interoperability
+- Authentication, routing, and session systems
+- Server performance and concurrency
+
+### Full Stack & Backend
 - Spring Boot
+- Node.js / Express
 - React / Next.js
-- Node.js
-- MongoDB / MySQL / PostgreSQL
+- REST APIs
+- MySQL / PostgreSQL / MongoDB
 - Docker
 - Linux
 - GitHub Actions
 - Maven / Gradle
-- PlatformIO / embedded development
 
-## Current Projects
+## What I Like Building
 
-### VeloAuth
-A production-oriented authentication system for Velocity, focused on secure premium/cracked authentication, nickname protection, multi-database support, performance, and reliable backend routing.
-
-### VeloAuthGate
-A NeoForge-side companion for VeloAuth, providing a secure in-place authentication gate on modded backends.
-
-### bcc-velocity-compat
-Compatibility work for bridging Velocity-side systems with BCC-style backend/client behavior.
-
-### My-Homelabs-Services
-Infrastructure and service configuration for my homelab environment.
-
-### MOTD-tools
-A web-based toolkit for creating and editing Minecraft server MOTDs.
-
-## Interests
-
-- Minecraft server architecture and networking
-- Homelab / self-hosting
-- Performance engineering
-- Automation and developer tooling
-- Embedded systems and electronics
-- Backend and systems design
+- Minecraft mods and server plugins
+- Velocity proxy systems and backend orchestration
+- Cross-version and protocol compatibility
+- Authentication and player-session infrastructure
+- High-performance, event-driven systems
+- Web panels and APIs for Minecraft services
+- Self-hosted and homelab infrastructure
 
 ## GitHub Stats
 
@@ -57,4 +51,4 @@ A web-based toolkit for creating and editing Minecraft server MOTDs.
 
 ## Contact
 
-Feel free to open an issue or discussion on one of my repositories for project-related questions and collaboration.
+Feel free to open an issue or discussion on one of my repositories for technical questions, collaboration, or ideas.
