@@ -1,49 +1,60 @@
-# Hi there, I'm Anya Chann (Bách Tô)! 👋
+# Hi, I'm Anya Chann (Bách)
 
-Welcome to my GitHub profile! I'm a passionate developer eager to learn and contribute to new projects.
+I'm a developer who enjoys building systems, experimenting with infrastructure, and turning ideas into working software.
 
-## About Me
+My current focus is around **Minecraft server infrastructure, web development, homelabs, and automation**. I especially enjoy projects where performance, reliability, and system design matter.
 
-- 🌱 I’m currently learning **full-stack development** and **machine learning**.
-- 👯 I’m looking to collaborate on **open-source projects** and **community-driven initiatives**.
-- 💬 Ask me about **JavaScript**, **React**, and **Node.js**.
-- 📫 How to reach me: [Email](mail to: bachcter504@gmail.com)
-- ⚡ Fun fact: I love anime, gaming and coding!
-
-## My Skills
+## What I work with
 
 ### Languages
-- C/C++
-- C#
-- HTML
-- CSS
-- TypeScript
 - Java
-- JavaScript
+- TypeScript / JavaScript
+- C / C++
+- C#
+- HTML / CSS
 
-### Frameworks & Libraries
-- React
+### Frameworks & Technologies
+- Velocity, Paper/Folia, NeoForge
+- Spring Boot
+- React / Next.js
 - Node.js
-- Express
-- MongoDB
-
-### Tools & Platforms
-
-- Git & GitHub
+- MongoDB / MySQL / PostgreSQL
 - Docker
-- VS Code
-- JetBrains
+- Linux
+- GitHub Actions
+- Maven / Gradle
+- PlatformIO / embedded development
 
-## Stats
+## Current Projects
+
+### VeloAuth
+A production-oriented authentication system for Velocity, focused on secure premium/cracked authentication, nickname protection, multi-database support, performance, and reliable backend routing.
+
+### VeloAuthGate
+A NeoForge-side companion for VeloAuth, providing a secure in-place authentication gate on modded backends.
+
+### bcc-velocity-compat
+Compatibility work for bridging Velocity-side systems with BCC-style backend/client behavior.
+
+### My-Homelabs-Services
+Infrastructure and service configuration for my homelab environment.
+
+### MOTD-tools
+A web-based toolkit for creating and editing Minecraft server MOTDs.
+
+## Interests
+
+- Minecraft server architecture and networking
+- Homelab / self-hosting
+- Performance engineering
+- Automation and developer tooling
+- Embedded systems and electronics
+- Backend and systems design
+
+## GitHub Stats
 
 ![Anya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnyaChann&show_icons=true&theme=radical)
 
-## Recent Projects
+## Contact
 
-### [6GAG]([https://github.com/AnyaChann/6GAG.com.git](https://github.com/AnyaChann/6GAG.com.git))
-A clone website inspired by 9GAG.com was created to learn Node.js and React, not for commercial purposes.
-
-## Get In Touch
-
-Please feel free to contact me for collaboration or just a friendly chat. I'm always open to meeting new people and working on exciting projects!
-...
+Feel free to open an issue or discussion on one of my repositories for project-related questions and collaboration.
